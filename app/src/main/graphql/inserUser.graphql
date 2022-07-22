@@ -1,0 +1,5 @@
+mutation insertUser($name: String!) {
+    insert_users(objects: {name: $name}) {
+        affected_rows
+    }
+}

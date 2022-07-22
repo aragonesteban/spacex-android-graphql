@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceXGraphQL</string>
+    <string name="label_ships">Ships</string>
+    <string name="label_users">Users</string>
+</resources>
